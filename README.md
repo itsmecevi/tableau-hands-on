@@ -25,7 +25,7 @@
 ![5stepdesign](https://user-images.githubusercontent.com/27078712/72888440-266b7800-3d40-11ea-8668-db66477a76fb.png)
 Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 * [Visual References Summary](https://github.com/itsmecevi/visualreferences/blob/master/VisualReferences-SQLBI.pdf)
-* Data Storytelling (Rules of Thumb) : **Edward Tufte Rules**=> [Data Storytelling](https://docs.google.com/presentation/d/1zBK1Lny6N_8-8UhYsvbdbUpiBV2K_6-KUx-e6JkmQuw/edit?usp=sharing)
+* [Data Storytelling: Edward Tufte Rules](https://docs.google.com/presentation/d/1zBK1Lny6N_8-8UhYsvbdbUpiBV2K_6-KUx-e6JkmQuw/edit?usp=sharing)
 
 ## 2-Business Intelligence 101
  
