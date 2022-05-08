@@ -30,8 +30,8 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 ## 2-Business Intelligence 101
  
 * [Click Here: Hands-On Tableau BI](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
-* [Click Here: 2019 Business Intelligence Trends](https://www.tableau.com/reports/business-intelligence-trends)
-* [Survey](https://forms.gle/zQpJANaynKiVL8bz8)
+* [Click Here: Business Intelligence Trends](https://www.tableau.com/reports/business-intelligence-trends)
+* [Quiz](https://forms.gle/zQpJANaynKiVL8bz8)
 
 
 ## 3-Decision Support System (DSS):= "BI"
