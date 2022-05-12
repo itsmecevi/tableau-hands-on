@@ -37,9 +37,9 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 ## 3-Decision Support System (DSS):= "BI"
 
 * [Click Here: DSS](https://docs.google.com/presentation/d/1_Gp2_J6BrfddSLpv5bSxnpqudwgWZA3UklM3IGG6pMI/edit?usp=sharing)
-* Demo : [World_Bank_CO2-> CO2 Data Cleaned Sheet](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
-    * Excel vs Tableau: Country Name vs Sum of CO2
-    * Machine Learning in Tableau: Year, Sum CO2, Region (Forecasting & Clustering)
+* Demo : [Global Superstore](https://github.com/itsmecevi/global-superstore-new)
+    * Excel vs Tableau: Pivot Table vs Marks
+    * Machine Learning in Tableau: Forecasting & Clustering
 
 ## 4-Tableau & Big Data
 
