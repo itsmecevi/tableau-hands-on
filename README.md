@@ -90,10 +90,11 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
 * Column & Rows Shelf
 * Marks Cards
 * Discrete and Continuous Fields :
-  * Blue color: discret, qualitative data (string, geographics, date, date & time, boolean). If added qualitative data, then they are      separate the graphs.
-  * Green color: continuous, quantitative data, number, aggregation (sum, avg, etc).-> If added quantitative data, then they aren’t        separate the graphs.
+  * Blue color: discret, qualitative data (string, geographics, date, date & time, boolean). If added qualitative data, then they are separate the graphs.
+  * Green color: continuous, quantitative data, number, aggregation (sum, avg, etc).-> If added quantitative data, then they aren’t separate the graphs.
 * XXXX-Hands-on chart: [Tableau Visual-> hands-on chart.twb + Data-> Global-Superstore](https://github.com/itsmecevi/hands-on-tableau)
-  * 1-Word maps: country, profit
+  * 1a-Word maps: profit vs sales by country (country, profit, sales)
+  * 1b-Bar chart: negative profit by country (country, profit)
   * 2-Line chart: profit by category, profit by market, profit trendline, profit forecasting
   * 3-Bar chart: profit, profit by ship mode
   * 4-Bubble chart: profit by city
