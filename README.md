@@ -70,7 +70,7 @@ ___________
    * [Left Join, Right Join, Full Outer Join]=> database/datawarehouse
 * Data Interpreter : [amazn_stock.pdf](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf), [CO2 API](https://github.com/itsmecevi/World-Data-CO2-API/blob/master/API_EN.ATM.CO2E.PC_DS2_en_excel_v2_247989.xls)
 * Data Pivoting (Unpivoting) : [CO2 API](https://github.com/itsmecevi/World-Data-CO2-API/blob/master/API_EN.ATM.CO2E.PC_DS2_en_excel_v2_247989.xls)
-* Splitting : CO2 API Version-Indicator Name
+* Splitting : [CO2 API](https://github.com/itsmecevi/World-Data-CO2-API/blob/master/API_EN.ATM.CO2E.PC_DS2_en_excel_v2_247989.xls) (Indicator Name-Header)
 * Manage data properties :
    * Rename a data field:
    * Assign an alias to a data value
