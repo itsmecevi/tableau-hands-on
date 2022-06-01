@@ -89,7 +89,7 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
 * Discrete and Continuous Fields :
   * Blue color: discret, qualitative data (string, geographics, date, date & time, boolean). If added qualitative data, then they are separate the graphs.
   * Green color: continuous, quantitative data, number, aggregation (sum, avg, etc).-> If added quantitative data, then they aren’t separate the graphs.
-* Tableau Hands-On Chart Basic: [Demo File + Data-> Global-Superstore](https://github.com/itsmecevi/hands-on-tableau)
+* Tableau Hands-On Chart Basic: [Demo File + Datasource](https://github.com/itsmecevi/hands-on-tableau)
   * 1a-Word maps: profit vs sales by country (country, profit, sales)
   * 1b-Bar chart: negative profit by country (country, profit)
   * 2a-Line chart: profit by category
