@@ -118,12 +118,13 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
   
         1. totals
         2. percentages
-        3. profit ratio
-        4. diskon ratio
-        5. cost
-        6. aov (average order value)
-        7. profit status-if
-        8. profit level-elseif
+        3. profit ratio-1
+        4. profit ratio-2
+        5. diskon ratio
+        6. cost
+        7. aov (average order value)
+        8. profit status-if
+        9. profit level-elseif
         
 * Machine Learning: Quick Clusterisation & Forecasting
 * Sheet
