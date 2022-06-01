@@ -99,13 +99,17 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
   * 2b-Line chart: profit by market
   * 2c-Line chart: profit trendline full
   * 2d-Line chart: profit forecasting
-  * 3-Bar chart: profit, profit by ship mode
+  * 3a-Bar chart: profit, profit by category and subcategory
+  * 3a-Stacked Bar chart: profit by market and ship mode
   * 4-Bubble chart: profit by city
-  * 5-Tree maps: profit by region and subcategory, profit clustering, profit by product
+  * 5a-Tree maps: profit by region and subcategory, profit clustering, profit by product
+  * 5b-Tree maps: profit by product
+  * 5c-Tree maps: profit by region and subcategory clustering
   * 6-Funnel chart: profit by segment
   * 7-Waterfall chart: profit by sub-category
   * 8-Pie chart: shipping cost by region
   * 9-Maps: profit by state
+  * 10-Lollipop chart: sales by subcategory
   
 * Aggregation / Calculation: When to use calculations,
   * To segment data
