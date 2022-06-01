@@ -128,7 +128,7 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
         
 * Machine Learning: Quick Clusterisation & Forecasting
 * Sheet
-* Dashboard (Filter, Actions Highlight, & Formatting)
+* Dashboard 
 * Story
 
 
