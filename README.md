@@ -1,7 +1,6 @@
 # tableau-hands-on
 
 
-
 <span>&#129311;</span> Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
 <span>&#128202;</span> About Tableau Software -> [Click Here](https://www.tableau.com/about)
