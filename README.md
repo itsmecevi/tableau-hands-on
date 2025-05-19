@@ -29,7 +29,6 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 ## 2-Business Intelligence 101
  
 * [Click Here: Hands-On Tableau BI: Tableau vs Power BI](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
-* [Click Here: Business Intelligence Trends](https://www.tableau.com/reports/business-intelligence-trends)
 * [Quiz](https://forms.gle/zQpJANaynKiVL8bz8)
 
 
