@@ -130,7 +130,10 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
 * Story
 
 
-## 8-Use Case Various Dataset and Industry
+## 8-Use Case Various Dataset and Industry: Customized for client
+
+## 9-Tableau Wikipedia All Tutorial: https://trello.com/b/IR0xqNMM/tableau-wiki-cevi
+
 
 
 
